@@ -85,5 +85,5 @@ Intermediate algorithm scripting exercises:
 ## Certification
 
 **freeCodeCamp JavaScript Algorithms and Data Structures**
-Awarded to: **lordmuze**
+Awarded to: **Muslinmin**
 🔗 https://www.freecodecamp.org/certification/lordmuze/javascript-algorithms-and-data-structures
